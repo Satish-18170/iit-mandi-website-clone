@@ -1,29 +1,75 @@
-# IIT Mandi Website Clone
+# 🎓 IIT Mandi Official Website Clone
 
-A responsive front-end clone of the official IIT Mandi website developed using HTML, CSS, and JavaScript.
+A responsive front-end clone of the official **Indian Institute of Technology Mandi** website built using **HTML, CSS, and JavaScript**.
 
-## Features
+---
 
-* Responsive layout for desktop and mobile devices.
-* Navigation bar and homepage UI.
-* Multiple website sections inspired by the official IIT Mandi website.
-* Clean and reusable HTML/CSS structure.
+## 📌 Project Overview
 
-## Tech Stack
+This project recreates the look and feel of the IIT Mandi official website with a modern responsive interface.
+
+It includes multiple sections such as academics, research, placements, campus life, contact information, FAQs, and navigation.
+
+---
+
+## ✨ Features
+
+* Responsive Navigation Bar
+* Hero Landing Section
+* About IIT Mandi
+* Academic Departments
+* Research & Innovation Section
+* Campus Life Gallery
+* Placement Statistics
+* Latest Events Section
+* Contact Form
+* FAQ Accordion
+* Active Navigation Highlight using JavaScript
+
+---
+
+## 🛠 Tech Stack
 
 * HTML5
 * CSS3
-* JavaScript
+* JavaScript (Vanilla)
 
-## Project Structure
+---
 
-index.html
-style.css
-script.js
-assets/
+## 📂 Folder Structure
 
-## Future Improvements
+iit-mandi-website-clone/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── assets/
+│ ├── images/
+│ └── screenshots/
 
-* Add responsive animations.
-* Improve accessibility.
-* Deploy using GitHub Pages.
+---
+
+## 📸 Screenshots
+
+Screenshots will be added here.
+
+---
+
+## 🚀 Future Improvements
+
+* Dark Mode
+* Mobile Navigation Menu
+* Search Functionality
+* News API Integration
+* Interactive Campus Gallery
+
+---
+
+## 👨‍💻 Author
+
+**Satish Hasgond**
+
+B.Tech Data Science & Artificial Intelligence
+
+Indian Institute of Technology Mandi
